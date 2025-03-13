@@ -7,6 +7,7 @@ URL:		https://pypi.org/project/ruamel.yaml.clib/
 License:	MIT
 Group:		Development/Python
 BuildRequires:	python
+BuildRequires:	pkgconfig(python3)
 BuildSystem:	python
 
 %description
