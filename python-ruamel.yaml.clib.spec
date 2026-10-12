@@ -1,6 +1,6 @@
 Name:		python-ruamel.yaml.clib
 Version:	0.2.15
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/r/ruamel_yaml_clib/ruamel_yaml_clib-%{version}.tar.gz
 Summary:	C version of reader, parser and emitter for ruamel.yaml derived from libyaml
 URL:		https://pypi.org/project/ruamel.yaml.clib/
